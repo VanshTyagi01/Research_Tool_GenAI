@@ -1,0 +1,14 @@
+#Streamlit
+streamlit
+
+# Environment Variable Management
+python-dotenv
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Google Gemini (PaLM) Integeration
+langchain-google-genai 
+google-generativeai
