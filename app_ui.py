@@ -13,7 +13,7 @@ style_input = st.selectbox("Select Explanation Style", ["Begineer-Friendly", "Te
 
 length_input = st.selectbox("Select Explanation length", ["short(1-2 Paragraph)", "Medium (3-5 paragraph)", "Long (Detailed Explanation)"])
 
-template = load_prompt('D:/langchain_models/LangChain_Prompts_WorkFlow/template.json')
+template = load_prompt('template.json')
 
 
 # user_input = st.text_input("Enter your prompt")
